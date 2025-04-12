@@ -55,7 +55,7 @@ Excel • Jira • Azure DevOps • Trello • Bugzilla • TestRail • Zephyr 
 ## My Portfolio Website
 
 Take a look at my personal QA portfolio:  
-[ghadahussienqa.github.io](https://ghadahussienqa.github.io)
+[ghadahussienqa.github.io]([https:(https://ghadahussienqa.github.io/Ghada-Portfolio-/)
 
 ---
 
