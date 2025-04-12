@@ -59,4 +59,4 @@ Excel • Jira • Azure DevOps • Trello • Bugzilla • TestRail • Zephyr 
 </p>
 ---
 
-[Ghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhadaHussienQA&show_icons=true&theme=default)
+#![Ghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhadaHussienQA&show_icons=true&theme=default)
