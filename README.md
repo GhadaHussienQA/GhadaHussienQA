@@ -10,16 +10,23 @@
 ## 🛠️ Skills & Tools
 
 ### Manual Testing
-- Writing Test Cases & Test Scenarios  
-- Functional, UI, Regression & Smoke Testing  
-- Bug Reporting & Tracking
+
+- Writing Test Cases, Test Scenarios & Bug Reports using Excel  
+- Test Execution and Result Documentation  
+- Functional, Regression, Smoke & Sanity Testing  
+- Bug Tracking & Project Management: Jira, Azure DevOps, Trello, Bugzilla  
+- Test Management Tools: TestRail, Zephyr, Xray  
+- Familiar with STLC, SDLC, and Bug Life Cycle  
+- Exploratory & UI Testing across multiple browsers and devices
 
 ### Automation Testing
+
 - Programming Language: Java  
 - Tools & Frameworks: Selenium WebDriver, TestNG, Cucumber, IntelliJ IDEA  
 - Design Pattern: Page Object Model (POM)
 
 ### API Testing
+
 - Tools: Postman  
 - Testing RESTful APIs  
 - Creating & Automating API Scenarios
@@ -36,6 +43,12 @@
 ---
 
 > “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
+
+---
+
+## Tools I Work With
+
+Excel • Jira • Azure DevOps • Trello • Bugzilla • TestRail • Zephyr • Xray • Selenium • Postman • TestNG • Cucumber • IntelliJ
 
 ---
 
