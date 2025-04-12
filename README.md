@@ -57,3 +57,8 @@ Excel • Jira • Azure DevOps • Trello • Bugzilla • TestRail • Zephyr 
 <p>
   <a href="http://linkedin.com/in/ghada-hussien-96a908310">LinkedIn – Ghada Hussien</a>
 </p>
+---
+
+## GitHub Stats
+
+![Ghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghada-hussien&show_icons=true&theme=default)
