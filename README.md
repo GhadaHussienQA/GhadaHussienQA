@@ -29,15 +29,8 @@
 
 - Tools: Postman  
 - Testing RESTful APIs  
-- Creating & Automating API Scenarios
-
----
-
-## My Portfolio Website
-
-Take a look at my personal QA portfolio:  
-[ghadahussienqa.github.io](https://ghadahussienqa.github.io)
-
+- Creating & Automating API
+  
 ---
 
 ## ⭐ Highlights
@@ -56,6 +49,13 @@ Take a look at my personal QA portfolio:
 ## Tools I Work With
 
 Excel • Jira • Azure DevOps • Trello • Bugzilla • TestRail • Zephyr • Xray • Selenium • Postman • TestNG • Cucumber • IntelliJ
+
+---
+
+## My Portfolio Website
+
+Take a look at my personal QA portfolio:  
+[ghadahussienqa.github.io](https://ghadahussienqa.github.io)
 
 ---
 
