@@ -33,6 +33,13 @@
 
 ---
 
+## My Portfolio Website
+
+Take a look at my personal QA portfolio:  
+[ghadahussienqa.github.io](https://ghadahussienqa.github.io)
+
+---
+
 ## ⭐ Highlights
 
 - Practical experience with automation projects in a professional environment  
